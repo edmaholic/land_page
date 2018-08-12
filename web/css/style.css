@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
 	background:#e6e6e6;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Kreon', serif;
 }
 body a{
 	transition: 0.5s all;
@@ -705,7 +705,7 @@ b.plus-on {
 }
 /*--login--*/
 .account h2,.register h2{
-	font-size: 3em;
+	font-size: 2em;
 	color: #222;
 	text-align:center;	
 }
@@ -719,7 +719,7 @@ b.plus-on {
 }
 .account-top input[type="text"],.account-top textarea,.account-top input[type="password"],
 .register-top input[type="text"],.register-top textarea,.register-top input[type="password"]{
-	padding:14px;
+	padding:2px;
 	width:100%;
 	background:#fff;
 	border: none;	
